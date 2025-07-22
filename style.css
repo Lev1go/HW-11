@@ -44,3 +44,9 @@ background-color: #0890ff;
     display: flex;
     
 }
+a:hover {
+    color: pink;
+    background-color: black;
+    height: 50px;
+    font-size: 30px;
+}
