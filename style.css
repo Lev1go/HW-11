@@ -31,7 +31,7 @@ background-color: #0890ff;
     background-color: beige;
 }
 .gallery-list {
-    margin: 30px;
+    padding:40px;
     display: flex;
     flex-wrap: wrap;
     display: flex;
@@ -47,6 +47,5 @@ background-color: #0890ff;
 a:hover {
     color: pink;
     background-color: black;
-    height: 50px;
     font-size: 30px;
 }
